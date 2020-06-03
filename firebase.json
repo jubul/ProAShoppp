@@ -8,7 +8,7 @@
     ]
   },
   "hosting": {
-    "site": "proa-shop",
+    "site": "proa-shopp",
     "public": "public",
     "ignore": [
       "firebase.json",
