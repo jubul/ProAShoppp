@@ -1,0 +1,27 @@
+.rojo{
+    border: 2px solid;
+    color: red;
+    padding: 10px;
+}
+.verde{
+    border: 2px solid;
+    color: green;
+    padding: 10px;
+    background-color: lightgreen;
+    text-align: center;
+}
+
+.logo{
+width: 75px;
+height: 75px;
+}
+.inline{
+    display: inline-block;
+}
+a{
+    border-radius: 5px;
+    padding: 10px 7px;
+    text-decoration: none;
+    color: #fff;
+    margin: 5px;
+  }
